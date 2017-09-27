@@ -1,5 +1,5 @@
 body{
-  background-color: red;
+  background-color: white;
 }
 .center{
   text-align: center;
@@ -20,40 +20,4 @@ p.hello1{
   -ms-transform: skew(20deg, 10deg); /* IE 9 */
   -webkit-transform: skew(20deg, 10deg); /* Safari */
   transform: skew(20deg, 10deg); /* standard syntax */
-}
-p.hello2{
-  width: 500px;
-  height: 100px;
-  background-color: yellow;
-  border: 2px solid green;
-  -ms-transform: skew(40deg, 30deg); /* IE 9 */
-  -webkit-transform: skew(40deg, 30deg); /* Safari */
-  transform: skew(40deg, 30deg); /* standard syntax */
-}
-p.hello3{
-  width: 500px;
-  height: 100px;
-  background-color: yellow;
-  border: 2px solid green;
-  -ms-transform: skew(25deg, 15deg); /* IE 9 */
-  -webkit-transform: skew(25deg, 15deg); /* Safari */
-  transform: skew(25deg, 15deg); /* standard syntax */
-}
-p.hello4{
-  width: 500px;
-  height: 100px;
-  background-color: yellow;
-  border: 2px solid green;
-  -ms-transform: skew(40deg, 30deg); /* IE 9 */
-  -webkit-transform: skew(40deg, 30deg); /* Safari */
-  transform: skew(40deg, 30deg); /* standard syntax */
-}
-p.hello5{
-  width: 500px;
-  height: 100px;
-  background-color: yellow;
-  border: 2px solid green;
-  -ms-transform: skew(40deg, 30deg); /* IE 9 */
-  -webkit-transform: skew(40deg, 30deg); /* Safari */
-  transform: skew(40deg, 30deg); /* standard syntax */
 }

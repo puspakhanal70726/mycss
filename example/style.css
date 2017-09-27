@@ -19,3 +19,11 @@ border-image-slice: 1;
   width: 100px;
   transition: rotate(180deg);
 }
+/* border Image*/
+.borderimage{
+  height: 300px;
+  border: 400px;
+  border: 20px solid transparent;
+  border-image: url(images/doberman.jpeg);
+  padding: 20px;
+}
