@@ -21,3 +21,12 @@ p.hello1{
   -webkit-transform: skew(20deg, 10deg); /* Safari */
   transform: skew(20deg, 10deg); /* standard syntax */
 }
+p.hello2{
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  border: 2px solid green;
+  -ms-transform: skew(30deg, 20deg); /* IE 9 */
+  -webkit-transform: skew(30deg, 20deg); /* Safari */
+  transform: skew(30deg, 20deg); /* standard syntax */
+}
