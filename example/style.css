@@ -1,0 +1,21 @@
+.gradient{
+height: 400px;
+width: 1000px;
+background: linear-gradient(to right, red, white, blue);
+border-width:20px;
+border-style: solid;
+border-image: linear-gradient(red, white, red, blue);
+border-image-slice: 1;
+
+}
+.transition{
+  height: 400px;
+  width: 1000px;
+  background-color: linear-gradient(to right, red, white, blue);
+  transition: height 3s, width 3s, transform 2s;
+}
+.transition:hover{
+  height: 100px;
+  width: 100px;
+  transition: rotate(180deg);
+}
